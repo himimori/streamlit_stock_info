@@ -1,5 +1,4 @@
 # streamlit_stock_info
 Задание вторника
 
-Для запуска прописать в консоли "streamlit run streamlit.py"
-Иногда при запуске, на странице стримлита появляется ошибка, которая пропадает, как только пользователь выберет компанию или дату. Так и не разобрался что с ней делать :(
+https://himimori-streamlit-stock-info-streamlit-xbc0sy.streamlit.app/
